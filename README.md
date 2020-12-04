@@ -1,4 +1,6 @@
-### Hi there 👋
+### السلام عليكم ورحمة الله وبركاته 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abotyim.abotyim)
 
 <!--
 **AboTyim/AboTyim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
